@@ -1,0 +1,956 @@
+{
+    "hash": "334ba5af3aa2e62d77d95b7d6b067c",
+    "keys_hash": "52afac2e46fce619b7a0f0361e693828",
+    "object": [
+        {
+            "routeCode": "00010",
+            "displayRouteCode": "B01",
+            "name": "GAZİKENT-ENSAR SİTESİ",
+            "type": "route"
+        },
+        {
+            "routeCode": "00020",
+            "displayRouteCode": "B02",
+            "name": "MAVİKENT-İSTASYON",
+            "type": "route"
+        },
+        {
+            "routeCode": "00030",
+            "displayRouteCode": "B03",
+            "name": "İNCİLİKAYA-ÇOCUK HAST.",
+            "type": "route"
+        },
+        {
+            "routeCode": "00040",
+            "displayRouteCode": "B04",
+            "name": "İNCİLİKAYA-ÇOCUK HAST.",
+            "type": "route"
+        },
+        {
+            "routeCode": "00050",
+            "displayRouteCode": "B05",
+            "name": "İNCİLİKAYA-GRAND HOTEL",
+            "type": "route"
+        },
+        {
+            "routeCode": "00060",
+            "displayRouteCode": "B06",
+            "name": "GÜNEŞ MAH.-SEFAŞEHİR",
+            "type": "route"
+        },
+        {
+            "routeCode": "00070",
+            "displayRouteCode": "B07",
+            "name": "GÜZELYURT KONUTLARI-GRAND HOTEL",
+            "type": "route"
+        },
+        {
+            "routeCode": "00080",
+            "displayRouteCode": "B08",
+            "name": "BEYKENT-BALIKLI",
+            "type": "route"
+        },
+        {
+            "routeCode": "00090",
+            "displayRouteCode": "K09",
+            "name": "İSTASYON-KARAKESEK",
+            "type": "route"
+        },
+        {
+            "routeCode": "00100",
+            "displayRouteCode": "B10",
+            "name": "BALIKLI-H.BAHÇESİ",
+            "type": "route"
+        },
+        {
+            "routeCode": "00110",
+            "displayRouteCode": "B11",
+            "name": "HAYVAN PAZARI-İSTASYON",
+            "type": "route"
+        },
+        {
+            "routeCode": "00120",
+            "displayRouteCode": "B12",
+            "name": "AKKENT-N.TOPCUOĞLU M.Y.O",
+            "type": "route"
+        },
+        {
+            "routeCode": "00130",
+            "displayRouteCode": "K13",
+            "name": "YEDİTEPE-KILCAN",
+            "type": "route"
+        },
+        {
+            "routeCode": "00140",
+            "displayRouteCode": "B14",
+            "name": "ÇAKMAK MAH-ÖVÜNDÜK",
+            "type": "route"
+        },
+        {
+            "routeCode": "00150",
+            "displayRouteCode": "K15",
+            "name": "İSTASYON-ÇÖREKLİ",
+            "type": "route"
+        },
+        {
+            "routeCode": "00160",
+            "displayRouteCode": "K16",
+            "name": "BALIKLI-İNCEYOL",
+            "type": "route"
+        },
+        {
+            "routeCode": "00170",
+            "displayRouteCode": "K17",
+            "name": "İSTASYON-DURAKLI",
+            "type": "route"
+        },
+        {
+            "routeCode": "00180",
+            "displayRouteCode": "B18",
+            "name": "SEYRANTEPE-AKTOPRAK",
+            "type": "route"
+        },
+        {
+            "routeCode": "00181",
+            "displayRouteCode": "B18-1",
+            "name": "İSTASYON-KARACABURÇ",
+            "type": "route"
+        },
+        {
+            "routeCode": "00190",
+            "displayRouteCode": "K19",
+            "name": "19 MAYIS LİSESİ-ULUYATIR",
+            "type": "route"
+        },
+        {
+            "routeCode": "00200",
+            "displayRouteCode": "K20",
+            "name": "BALIKLI-YAYIKTAŞ",
+            "type": "route"
+        },
+        {
+            "routeCode": "00210",
+            "displayRouteCode": "K21",
+            "name": "İSTASYON-SOFALICI",
+            "type": "route"
+        },
+        {
+            "routeCode": "00220",
+            "displayRouteCode": "K22",
+            "name": "İSTASYON-BATTAL",
+            "type": "route"
+        },
+        {
+            "routeCode": "00240",
+            "displayRouteCode": "K24",
+            "name": "İSTASYON-KERSENTAŞ",
+            "type": "route"
+        },
+        {
+            "routeCode": "00250",
+            "displayRouteCode": "B25",
+            "name": "TIP FAKÜLTESİ-HASAN KALYONCU UNV.",
+            "type": "route"
+        },
+        {
+            "routeCode": "00260",
+            "displayRouteCode": "K26",
+            "name": "İSTASYON-SOYLU",
+            "type": "route"
+        },
+        {
+            "routeCode": "00270",
+            "displayRouteCode": "K27",
+            "name": "İSTASYON-DEMİRKONAK",
+            "type": "route"
+        },
+        {
+            "routeCode": "00280",
+            "displayRouteCode": "B28",
+            "name": "ÖNDERBİRLİK-BALIKLI",
+            "type": "route"
+        },
+        {
+            "routeCode": "00290",
+            "displayRouteCode": "B29",
+            "name": "HAYVNAT BAH. KUZEY KAPI-BEYKENT",
+            "type": "route"
+        },
+        {
+            "routeCode": "00300",
+            "displayRouteCode": "B30",
+            "name": "GAZİKENT-İPEKEVLER",
+            "type": "route"
+        },
+        {
+            "routeCode": "00310",
+            "displayRouteCode": "B31",
+            "name": "GİBTÜ-İSTASYON",
+            "type": "route"
+        },
+        {
+            "routeCode": "00320",
+            "displayRouteCode": "K32",
+            "name": "İSTASYON-ATALAR",
+            "type": "route"
+        },
+        {
+            "routeCode": "00330",
+            "displayRouteCode": "B33",
+            "name": "ÇOCUK HST-GÜZELYURT KONUTLARI",
+            "type": "route"
+        },
+        {
+            "routeCode": "00340",
+            "displayRouteCode": "K34",
+            "name": "YEDİTEPE-YOĞUNTAŞ",
+            "type": "route"
+        },
+        {
+            "routeCode": "00350",
+            "displayRouteCode": "B35",
+            "name": "İSTASYON-BEYKENT",
+            "type": "route"
+        },
+        {
+            "routeCode": "00360",
+            "displayRouteCode": "K36",
+            "name": "İSTASYON-YENİYAZI",
+            "type": "route"
+        },
+        {
+            "routeCode": "00370",
+            "displayRouteCode": "B37",
+            "name": "İSTASYON-MİMAR SİNAN VİLLALARI",
+            "type": "route"
+        },
+        {
+            "routeCode": "00380",
+            "displayRouteCode": "B38",
+            "name": "ŞEHİR HASTANESİ-İSTASYON",
+            "type": "route"
+        },
+        {
+            "routeCode": "00390",
+            "displayRouteCode": "B39",
+            "name": "OĞUZELİ-KARATAŞ-KARATAŞ-OĞUZELİ",
+            "type": "route"
+        },
+        {
+            "routeCode": "00400",
+            "displayRouteCode": "B40",
+            "name": "ENSAR SİT.-BALIKLI",
+            "type": "route"
+        },
+        {
+            "routeCode": "00410",
+            "displayRouteCode": "B41",
+            "name": "SEYRANTEPE-ALTINOVA",
+            "type": "route"
+        },
+        {
+            "routeCode": "00430",
+            "displayRouteCode": "B43",
+            "name": "İPEKEVLER-SEFAŞEHİR",
+            "type": "route"
+        },
+        {
+            "routeCode": "00440",
+            "displayRouteCode": "B44",
+            "name": "ÇOCUK HAST.-BEYKENT",
+            "type": "route"
+        },
+        {
+            "routeCode": "00450",
+            "displayRouteCode": "B45",
+            "name": "D.PINAR-GİBTÜ",
+            "type": "route"
+        },
+        {
+            "routeCode": "00460",
+            "displayRouteCode": "B46",
+            "name": "BEYKENT-MAVİKENT",
+            "type": "route"
+        },
+        {
+            "routeCode": "00470",
+            "displayRouteCode": "K47",
+            "name": "İSTASYON-SARIKAYA",
+            "type": "route"
+        },
+        {
+            "routeCode": "00480",
+            "displayRouteCode": "K48",
+            "name": "İSTASYON-GÜDER",
+            "type": "route"
+        },
+        {
+            "routeCode": "00490",
+            "displayRouteCode": "B49",
+            "name": "ÖNDERBİRLİK-İPEKEVLER",
+            "type": "route"
+        },
+        {
+            "routeCode": "00500",
+            "displayRouteCode": "B50",
+            "name": "İSTASYON-İPEKEVLER",
+            "type": "route"
+        },
+        {
+            "routeCode": "00501",
+            "displayRouteCode": "TA501",
+            "name": "GAR-İBNİ SİNA",
+            "type": "route"
+        },
+        {
+            "routeCode": "00502",
+            "displayRouteCode": "TA502",
+            "name": "ADLİYE-GAR",
+            "type": "route"
+        },
+        {
+            "routeCode": "00503",
+            "displayRouteCode": "TA503",
+            "name": "BURÇ-ADLİYE",
+            "type": "route"
+        },
+        {
+            "routeCode": "00510",
+            "displayRouteCode": "B51",
+            "name": "OTOGAR-TAŞLICA",
+            "type": "route"
+        },
+        {
+            "routeCode": "00520",
+            "displayRouteCode": "K52",
+            "name": "İSTASYON-KAYABAŞI",
+            "type": "route"
+        },
+        {
+            "routeCode": "00530",
+            "displayRouteCode": "B53",
+            "name": "H.KALYONCU ÜNV.-ÖNDERBİRLİK",
+            "type": "route"
+        },
+        {
+            "routeCode": "00540",
+            "displayRouteCode": "K54",
+            "name": "İSTASYON-GÜLLÜCE",
+            "type": "route"
+        },
+        {
+            "routeCode": "00550",
+            "displayRouteCode": "K55",
+            "name": "İSTASYON-HALİLBAŞ",
+            "type": "route"
+        },
+        {
+            "routeCode": "00560",
+            "displayRouteCode": "B56",
+            "name": "SEYRANTEPE-KABARCIK",
+            "type": "route"
+        },
+        {
+            "routeCode": "00570",
+            "displayRouteCode": "B57",
+            "name": "GAZİKENT-BALIKLI",
+            "type": "route"
+        },
+        {
+            "routeCode": "00580",
+            "displayRouteCode": "B58",
+            "name": "İPEKEVLER-BEYKENT",
+            "type": "route"
+        },
+        {
+            "routeCode": "00590",
+            "displayRouteCode": "B59",
+            "name": "BEYKENT-MAVİKENT",
+            "type": "route"
+        },
+        {
+            "routeCode": "00600",
+            "displayRouteCode": "B60",
+            "name": "GİBTÜ-DUMLUPINAR",
+            "type": "route"
+        },
+        {
+            "routeCode": "00601",
+            "displayRouteCode": "B601",
+            "name": "GİBTÜ-NARLITEPE",
+            "type": "route"
+        },
+        {
+            "routeCode": "00610",
+            "displayRouteCode": "B61",
+            "name": "DUMLUPINAR-BEYKENT",
+            "type": "route"
+        },
+        {
+            "routeCode": "00611",
+            "displayRouteCode": "B611",
+            "name": "NARLITEPE-BEYKENT",
+            "type": "route"
+        },
+        {
+            "routeCode": "00620",
+            "displayRouteCode": "B62",
+            "name": "ÖNDERBİRLİK-MAVİKENT",
+            "type": "route"
+        },
+        {
+            "routeCode": "00630",
+            "displayRouteCode": "B63",
+            "name": "OSMANLI MAH.-İSTASYON",
+            "type": "route"
+        },
+        {
+            "routeCode": "00640",
+            "displayRouteCode": "B64",
+            "name": "BALIKLI-DÜLÜK",
+            "type": "route"
+        },
+        {
+            "routeCode": "00650",
+            "displayRouteCode": "B65",
+            "name": "İSTASYON-HUZUREVİ",
+            "type": "route"
+        },
+        {
+            "routeCode": "00660",
+            "displayRouteCode": "B66",
+            "name": "BALIKLI-YIĞINLI",
+            "type": "route"
+        },
+        {
+            "routeCode": "00670",
+            "displayRouteCode": "B67",
+            "name": "ÇOCUK HST.-MAVİKENT",
+            "type": "route"
+        },
+        {
+            "routeCode": "00680",
+            "displayRouteCode": "K68",
+            "name": "İSTASYON-BEKİŞLİ",
+            "type": "route"
+        },
+        {
+            "routeCode": "00690",
+            "displayRouteCode": "B69",
+            "name": "İSTASYON-SİNAN",
+            "type": "route"
+        },
+        {
+            "routeCode": "00700",
+            "displayRouteCode": "K70",
+            "name": "İSTASYON-YAVUZELİ",
+            "type": "route"
+        },
+        {
+            "routeCode": "00701",
+            "displayRouteCode": "K701",
+            "name": "İSTASYON-ELİF",
+            "type": "route"
+        },
+        {
+            "routeCode": "00710",
+            "displayRouteCode": "K71",
+            "name": "İSTASYON-DOKUR",
+            "type": "route"
+        },
+        {
+            "routeCode": "00720",
+            "displayRouteCode": "K72",
+            "name": "İSTASYON-KAMIŞLI",
+            "type": "route"
+        },
+        {
+            "routeCode": "00730",
+            "displayRouteCode": "K73",
+            "name": "İSTASYON-KARAYUSUFLU",
+            "type": "route"
+        },
+        {
+            "routeCode": "00740",
+            "displayRouteCode": "B74",
+            "name": "GAZİANTEP ÜNİVERSİTESİ-UYGULAMA OTELİ",
+            "type": "route"
+        },
+        {
+            "routeCode": "00750",
+            "displayRouteCode": "B75",
+            "name": "BEYKENT-MAVİKENT",
+            "type": "route"
+        },
+        {
+            "routeCode": "00760",
+            "displayRouteCode": "B76",
+            "name": "BEYKENT-İPEKEVLER",
+            "type": "route"
+        },
+        {
+            "routeCode": "00770",
+            "displayRouteCode": "B77",
+            "name": "BEYKENT-GİBTÜ",
+            "type": "route"
+        },
+        {
+            "routeCode": "00780",
+            "displayRouteCode": "B78",
+            "name": "ÇOCUK HASTANESİ-BEYKENT",
+            "type": "route"
+        },
+        {
+            "routeCode": "00790",
+            "displayRouteCode": "B79",
+            "name": "MAVİKENT-GAZİKENT",
+            "type": "route"
+        },
+        {
+            "routeCode": "00800",
+            "displayRouteCode": "B80",
+            "name": "İPEKEVLER-GAZİKENT",
+            "type": "route"
+        },
+        {
+            "routeCode": "00840",
+            "displayRouteCode": "B84",
+            "name": "BEYKENT-BALIKLI",
+            "type": "route"
+        },
+        {
+            "routeCode": "00860",
+            "displayRouteCode": "B86",
+            "name": "İSTASYON-BURÇ",
+            "type": "route"
+        },
+        {
+            "routeCode": "00870",
+            "displayRouteCode": "B87",
+            "name": "SEYRANTEPE-MUHACIROSMAN",
+            "type": "route"
+        },
+        {
+            "routeCode": "00880",
+            "displayRouteCode": "B88",
+            "name": "SEYRANTEPE-BEŞKUYU",
+            "type": "route"
+        },
+        {
+            "routeCode": "00890",
+            "displayRouteCode": "B89",
+            "name": "OĞUZELİ-KALYON STADYUMU",
+            "type": "route"
+        },
+        {
+            "routeCode": "00900",
+            "displayRouteCode": "B90",
+            "name": "HOŞGÖR-ZEYTİNLİ",
+            "type": "route"
+        },
+        {
+            "routeCode": "00910",
+            "displayRouteCode": "B91",
+            "name": "ÇAKMAK MAH.-DIMIŞKILI",
+            "type": "route"
+        },
+        {
+            "routeCode": "00920",
+            "displayRouteCode": "B92",
+            "name": "KUZEYŞEHİR-İSTASYON",
+            "type": "route"
+        },
+        {
+            "routeCode": "00921",
+            "displayRouteCode": "B92-1",
+            "name": "KUZEYŞEHİR 6.ETAP-İSTASYON",
+            "type": "route"
+        },
+        {
+            "routeCode": "00930",
+            "displayRouteCode": "B93",
+            "name": "BALIKLI-SAM",
+            "type": "route"
+        },
+        {
+            "routeCode": "00940",
+            "displayRouteCode": "K94",
+            "name": "İSTASYON-KARTALKÖY",
+            "type": "route"
+        },
+        {
+            "routeCode": "00980",
+            "displayRouteCode": "B300",
+            "name": "GAZİULAŞ-AKILLI ŞEHİRLER",
+            "type": "route"
+        },
+        {
+            "routeCode": "02000",
+            "displayRouteCode": "B200",
+            "name": "ANKA HASTANESİ-BALIKLI",
+            "type": "route"
+        },
+        {
+            "routeCode": "02100",
+            "displayRouteCode": "B201",
+            "name": "BALIKLI-YEŞİLKENT MEZARLIĞI",
+            "type": "route"
+        },
+        {
+            "routeCode": "02700",
+            "displayRouteCode": "B270",
+            "name": "İSTASYON-KALYON STADI",
+            "type": "route"
+        },
+        {
+            "routeCode": "10010",
+            "displayRouteCode": "TA1",
+            "name": "GAÜN-GÜNEYŞEHİR",
+            "type": "route"
+        },
+        {
+            "routeCode": "10030",
+            "displayRouteCode": "TA3",
+            "name": "GİBTÜ-GAÜN",
+            "type": "route"
+        },
+        {
+            "routeCode": "10040",
+            "displayRouteCode": "TA6",
+            "name": "KARATAŞ2-TRAMVAY AKTARMA",
+            "type": "route"
+        },
+        {
+            "routeCode": "10050",
+            "displayRouteCode": "TA500",
+            "name": "TRAMVAY AKTARMA-TRAMVAY AKTARMA",
+            "type": "route"
+        },
+        {
+            "routeCode": "10100",
+            "displayRouteCode": "GA1",
+            "name": "GAZİRAY BAŞPINAR İSTASYONU-AKTOPRAK",
+            "type": "route"
+        },
+        {
+            "routeCode": "10200",
+            "displayRouteCode": "GA2",
+            "name": "GAZİRAY BAŞPINAR İSTASYONU-KUZEYŞEHİR",
+            "type": "route"
+        },
+        {
+            "routeCode": "10300",
+            "displayRouteCode": "GA3",
+            "name": "GAZİRAY BAŞPINAR İSTASYONU-BEYKENT",
+            "type": "route"
+        },
+        {
+            "routeCode": "20010",
+            "displayRouteCode": "M01",
+            "name": "MAVİKENT-KAYAÖNÜ-OTOGAR",
+            "type": "route"
+        },
+        {
+            "routeCode": "20020",
+            "displayRouteCode": "M02",
+            "name": "YEDİTEPE-OTOGAR",
+            "type": "route"
+        },
+        {
+            "routeCode": "20030",
+            "displayRouteCode": "M03",
+            "name": "GAZİKENT-MAVİKENT",
+            "type": "route"
+        },
+        {
+            "routeCode": "20040",
+            "displayRouteCode": "M04",
+            "name": "YEDİTEPE-GAZİKENT",
+            "type": "route"
+        },
+        {
+            "routeCode": "20050",
+            "displayRouteCode": "M05",
+            "name": "GAZİKENT-BALIKLI",
+            "type": "route"
+        },
+        {
+            "routeCode": "20060",
+            "displayRouteCode": "M06",
+            "name": "YENİ ÇOCUK HAST.-OTOGAR",
+            "type": "route"
+        },
+        {
+            "routeCode": "20070",
+            "displayRouteCode": "M07",
+            "name": "YENİ ÇOCUK HAST.-OTOGAR",
+            "type": "route"
+        },
+        {
+            "routeCode": "20080",
+            "displayRouteCode": "M08",
+            "name": "KARACA AHMET MAHALLESİ-YEDİTEPE",
+            "type": "route"
+        },
+        {
+            "routeCode": "20090",
+            "displayRouteCode": "M09",
+            "name": "İPEKEVLER-OTOGAR",
+            "type": "route"
+        },
+        {
+            "routeCode": "20100",
+            "displayRouteCode": "M10",
+            "name": "İPEKEVLER-OTOGAR",
+            "type": "route"
+        },
+        {
+            "routeCode": "20110",
+            "displayRouteCode": "M11",
+            "name": "İPEKEVLER-ADLİYE-BEYKENT",
+            "type": "route"
+        },
+        {
+            "routeCode": "20120",
+            "displayRouteCode": "M12",
+            "name": "SERİNEVLER-15 TEMMUZ YERLEŞKESİ",
+            "type": "route"
+        },
+        {
+            "routeCode": "20130",
+            "displayRouteCode": "M12-1",
+            "name": "SERİNEVLER-MAVİKENT",
+            "type": "route"
+        },
+        {
+            "routeCode": "20140",
+            "displayRouteCode": "M13",
+            "name": "VATAN MAHALLESİ-TUĞAY",
+            "type": "route"
+        },
+        {
+            "routeCode": "20150",
+            "displayRouteCode": "M13-1",
+            "name": "GÜZELVADİ-TUĞAY",
+            "type": "route"
+        },
+        {
+            "routeCode": "20160",
+            "displayRouteCode": "M14",
+            "name": "VATAN MAHALLESİ-ENSAR SİT.",
+            "type": "route"
+        },
+        {
+            "routeCode": "20170",
+            "displayRouteCode": "M15",
+            "name": "NARLITEPE-OTOGAR",
+            "type": "route"
+        },
+        {
+            "routeCode": "20180",
+            "displayRouteCode": "M15-1",
+            "name": "GÜZELVADİ-OTOGAR",
+            "type": "route"
+        },
+        {
+            "routeCode": "20190",
+            "displayRouteCode": "M16",
+            "name": "MAVİKENT-OTOGAR",
+            "type": "route"
+        },
+        {
+            "routeCode": "20200",
+            "displayRouteCode": "M17",
+            "name": "BEYKENT-MAVİKENT",
+            "type": "route"
+        },
+        {
+            "routeCode": "20210",
+            "displayRouteCode": "M17-1",
+            "name": "BEYKENT-İPEKEVLER",
+            "type": "route"
+        },
+        {
+            "routeCode": "20220",
+            "displayRouteCode": "M18",
+            "name": "YENİ ÇOCUK HASTANESİ-AYAKKABICILAR SİTESİ",
+            "type": "route"
+        },
+        {
+            "routeCode": "20230",
+            "displayRouteCode": "M19",
+            "name": "GİRNE-BALIKLI-BALIKLI-GİRNE",
+            "type": "route"
+        },
+        {
+            "routeCode": "20231",
+            "displayRouteCode": "M19-1",
+            "name": "SEYRANTEPE-BALIKLI",
+            "type": "route"
+        },
+        {
+            "routeCode": "30010",
+            "displayRouteCode": "S01",
+            "name": "KARATAŞ-GATEM",
+            "type": "route"
+        },
+        {
+            "routeCode": "30011",
+            "displayRouteCode": "S01-1",
+            "name": "İBNİ SİNA-GÜNEŞ MAH.-GATEM",
+            "type": "route"
+        },
+        {
+            "routeCode": "30020",
+            "displayRouteCode": "S02",
+            "name": "SEYRANTEPE-PERİLİKAYA-ÇEVİK KUVVET",
+            "type": "route"
+        },
+        {
+            "routeCode": "30021",
+            "displayRouteCode": "S02-1",
+            "name": "İNCİLİKAYA-ÇOCUK HAST.",
+            "type": "route"
+        },
+        {
+            "routeCode": "30030",
+            "displayRouteCode": "S03",
+            "name": "MAVİKENT-CUMHURİYET-GATEM",
+            "type": "route"
+        },
+        {
+            "routeCode": "30040",
+            "displayRouteCode": "S04",
+            "name": "KARATAŞ-60.YIL-GATEM",
+            "type": "route"
+        },
+        {
+            "routeCode": "30041",
+            "displayRouteCode": "S04-1",
+            "name": "KARATAŞ-60.YIL-GATEM",
+            "type": "route"
+        },
+        {
+            "routeCode": "30050",
+            "displayRouteCode": "S05",
+            "name": "İBNİ SİNA-SÜMERBANK-GATEM",
+            "type": "route"
+        },
+        {
+            "routeCode": "30060",
+            "displayRouteCode": "S06",
+            "name": "BAŞPINAR-YAKACAK PAZARI",
+            "type": "route"
+        },
+        {
+            "routeCode": "30070",
+            "displayRouteCode": "S07",
+            "name": "BAŞPINAR-YEŞİLKENT-MAVİKENT",
+            "type": "route"
+        },
+        {
+            "routeCode": "30080",
+            "displayRouteCode": "S08",
+            "name": "BİNEVLER-GAZİKENT",
+            "type": "route"
+        },
+        {
+            "routeCode": "30081",
+            "displayRouteCode": "S08-1",
+            "name": "ONKOLOJİ-BİNEVLER-SEYRANTEPE-GAZİKENT",
+            "type": "route"
+        },
+        {
+            "routeCode": "30090",
+            "displayRouteCode": "S09",
+            "name": "ONUR MH.-KARAGÖZ",
+            "type": "route"
+        },
+        {
+            "routeCode": "30100",
+            "displayRouteCode": "S10",
+            "name": "BEYLERBEYİ-SAÇAKLI",
+            "type": "route"
+        },
+        {
+            "routeCode": "30110",
+            "displayRouteCode": "S11",
+            "name": "YAVUZLAR-ADLİYE LOJMANLARI",
+            "type": "route"
+        },
+        {
+            "routeCode": "30120",
+            "displayRouteCode": "S12",
+            "name": "TUGAY-KARATAŞ",
+            "type": "route"
+        },
+        {
+            "routeCode": "30121",
+            "displayRouteCode": "S12-1",
+            "name": "TUĞAY-VATAN",
+            "type": "route"
+        },
+        {
+            "routeCode": "50010",
+            "displayRouteCode": "T1",
+            "name": "İBNİ SİNA-GAR",
+            "type": "route"
+        },
+        {
+            "routeCode": "50020",
+            "displayRouteCode": "T2",
+            "name": "ADLİYE-GAR",
+            "type": "route"
+        },
+        {
+            "routeCode": "50030",
+            "displayRouteCode": "T3",
+            "name": "ADLİYE-BURÇ",
+            "type": "route"
+        },
+        {
+            "routeCode": "50110",
+            "displayRouteCode": "GR01",
+            "name": "BAŞPINAR-TAŞLICA",
+            "type": "route"
+        },
+        {
+            "routeCode": "80010",
+            "displayRouteCode": "N01",
+            "name": "AKÇAKENT-İSTASYON",
+            "type": "route"
+        },
+        {
+            "routeCode": "80020",
+            "displayRouteCode": "N02",
+            "name": "AKÇAKENT-FISTIK HALİ",
+            "type": "route"
+        },
+        {
+            "routeCode": "80030",
+            "displayRouteCode": "N03",
+            "name": "AKÇAKENT-FISTIK HALİ",
+            "type": "route"
+        },
+        {
+            "routeCode": "80040",
+            "displayRouteCode": "N04",
+            "name": "HASTANE-AKÇAKENT",
+            "type": "route"
+        },
+        {
+            "routeCode": "80050",
+            "displayRouteCode": "N05",
+            "name": "KONTEYNIR KENT-KONTEYNIR KENT-CEZAEVİ",
+            "type": "route"
+        },
+        {
+            "routeCode": "88910",
+            "displayRouteCode": "F01",
+            "name": "Test Belediye-Test Belediye",
+            "type": "route"
+        }
+    ],
+    "request_start": 1720197058182,
+    "request_duration": 469
+}
