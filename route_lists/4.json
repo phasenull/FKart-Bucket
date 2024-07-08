@@ -1,6 +1,6 @@
 {
-    "hash": "6ec2c2cfc92cdbbd9775da0d4cb2f9",
-    "keys_hash": "824c5aca91e7671a4dedb43327183e1",
+    "hash": "717a22ea48797abe589ff91a84c2b52",
+    "keys_hash": "11819ec9b8f9d8127241d4efb717c556",
     "object": [
         {
             "routeCode": "22201",
@@ -42,6 +42,30 @@
             "routeCode": "22207",
             "displayRouteCode": "HEREKE",
             "name": "HEREKE-İSKELE HATLARI",
+            "type": "route"
+        },
+        {
+            "routeCode": "22225",
+            "displayRouteCode": "DARICA",
+            "name": "DARICA-ADALAR",
+            "type": "route"
+        },
+        {
+            "routeCode": "22226",
+            "displayRouteCode": "IZMIT",
+            "name": "IZMIT-ADALAR",
+            "type": "route"
+        },
+        {
+            "routeCode": "22227",
+            "displayRouteCode": "22227",
+            "name": "TÜM İSKELELER (CİCO-TÜM İSKELELER (CİCO",
+            "type": "route"
+        },
+        {
+            "routeCode": "22228",
+            "displayRouteCode": "MEHTAP",
+            "name": "MEHTAP-TURU",
             "type": "route"
         },
         {
@@ -1647,6 +1671,12 @@
             "type": "route"
         },
         {
+            "routeCode": "42005",
+            "displayRouteCode": "TLFRK",
+            "name": "DERBENT-KUZUYAYLA",
+            "type": "route"
+        },
+        {
             "routeCode": "42032",
             "displayRouteCode": "32B",
             "name": "TREN GARI-BAÇ-ŞEHİR HASTANESİ-BOĞAZOVA-BAYINDIRLIK",
@@ -1701,6 +1731,12 @@
             "type": "route"
         },
         {
+            "routeCode": "42490",
+            "displayRouteCode": "490E",
+            "name": "MUALLİMKÖY KYK YURDU-GEBZE TEKNİK ÜNİVERSİTESİ",
+            "type": "route"
+        },
+        {
             "routeCode": "42501",
             "displayRouteCode": "501B",
             "name": "BAYRAMOĞLU-GEBZE",
@@ -1746,6 +1782,12 @@
             "routeCode": "43250",
             "displayRouteCode": "250G",
             "name": "GEBZE OTOGAR --SABİHA GÖKÇEN HAVAALANI",
+            "type": "route"
+        },
+        {
+            "routeCode": "44001",
+            "displayRouteCode": "44001",
+            "name": "GEBZE-ESENLER",
             "type": "route"
         },
         {
@@ -2151,6 +2193,6 @@
             "type": "route"
         }
     ],
-    "request_start": 1720477234252,
-    "request_duration": 358
+    "request_start": 1720477834459,
+    "request_duration": 303
 }
