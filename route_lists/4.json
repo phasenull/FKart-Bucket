@@ -1,6 +1,6 @@
 {
-    "hash": "957ec76140ec44034e1751242b07127",
-    "keys_hash": "975b1862792e08ed03568f7fa24f65",
+    "hash": "12cf283cd25bb7688c45a1a4af8e26f3",
+    "keys_hash": "766f26b257d4334978b819d71f6f",
     "object": [
         {
             "routeCode": "22201",
@@ -42,6 +42,30 @@
             "routeCode": "22207",
             "displayRouteCode": "HEREKE",
             "name": "HEREKE-İSKELE HATLARI",
+            "type": "route"
+        },
+        {
+            "routeCode": "22225",
+            "displayRouteCode": "DARICA",
+            "name": "DARICA-ADALAR",
+            "type": "route"
+        },
+        {
+            "routeCode": "22226",
+            "displayRouteCode": "IZMIT",
+            "name": "IZMIT-ADALAR",
+            "type": "route"
+        },
+        {
+            "routeCode": "22227",
+            "displayRouteCode": "22227",
+            "name": "TÜM İSKELELER (CİCO-TÜM İSKELELER (CİCO",
+            "type": "route"
+        },
+        {
+            "routeCode": "22228",
+            "displayRouteCode": "MEHTAP",
+            "name": "MEHTAP-TURU",
             "type": "route"
         },
         {
@@ -377,7 +401,7 @@
         {
             "routeCode": "41104",
             "displayRouteCode": "104",
-            "name": "KÖRFEZKENT-SOPALI HAST.-GÜNEY TERM��NALİ",
+            "name": "KÖRFEZKENT-SOPALI HAST.-GÜNEY TERMİNALİ",
             "type": "route"
         },
         {
@@ -1647,6 +1671,12 @@
             "type": "route"
         },
         {
+            "routeCode": "42005",
+            "displayRouteCode": "TLFRK",
+            "name": "DERBENT-KUZUYAYLA",
+            "type": "route"
+        },
+        {
             "routeCode": "42032",
             "displayRouteCode": "32B",
             "name": "TREN GARI-BAÇ-ŞEHİR HASTANESİ-BOĞAZOVA-BAYINDIRLIK",
@@ -1701,6 +1731,12 @@
             "type": "route"
         },
         {
+            "routeCode": "42490",
+            "displayRouteCode": "490E",
+            "name": "MUALLİMKÖY KYK YURDU-GEBZE TEKNİK ÜNİVERSİTESİ",
+            "type": "route"
+        },
+        {
             "routeCode": "42501",
             "displayRouteCode": "501B",
             "name": "BAYRAMOĞLU-GEBZE",
@@ -1752,6 +1788,12 @@
             "routeCode": "43250",
             "displayRouteCode": "250G",
             "name": "GEBZE OTOGAR --SABİHA GÖKÇEN HAVAALANI",
+            "type": "route"
+        },
+        {
+            "routeCode": "44001",
+            "displayRouteCode": "44001",
+            "name": "GEBZE-ESENLER",
             "type": "route"
         },
         {
@@ -2157,6 +2199,6 @@
             "type": "route"
         }
     ],
-    "request_start": 1720717838169,
-    "request_duration": 508
+    "request_start": 1720728638069,
+    "request_duration": 582
 }
