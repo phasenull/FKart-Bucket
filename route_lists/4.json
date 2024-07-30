@@ -1,6 +1,6 @@
 {
-    "hash": "3efe835e8edf0e167ea3b3f99b9a55",
-    "keys_hash": "766f26b257d4334978b819d71f6f",
+    "hash": "eb879f43439b4c104f1e583b63af84ef",
+    "keys_hash": "975b1862792e08ed03568f7fa24f65",
     "object": [
         {
             "routeCode": "22201",
@@ -54,38 +54,6 @@
             "routeCode": "22207",
             "displayRouteCode": "HEREKE",
             "name": "HEREKE-İSKELE HATLARI",
-            "type": "route",
-            "agencyId": "2",
-            "agencyName": "Kocaeli Büyükşehir Belediyesi Deniz Ulaşım Şube Müdürlüğü"
-        },
-        {
-            "routeCode": "22225",
-            "displayRouteCode": "DARICA",
-            "name": "DARICA-ADALAR",
-            "type": "route",
-            "agencyId": "2",
-            "agencyName": "Kocaeli Büyükşehir Belediyesi Deniz Ulaşım Şube Müdürlüğü"
-        },
-        {
-            "routeCode": "22226",
-            "displayRouteCode": "IZMIT",
-            "name": "IZMIT-ADALAR",
-            "type": "route",
-            "agencyId": "2",
-            "agencyName": "Kocaeli Büyükşehir Belediyesi Deniz Ulaşım Şube Müdürlüğü"
-        },
-        {
-            "routeCode": "22227",
-            "displayRouteCode": "22227",
-            "name": "TÜM İSKELELER (CİCO-TÜM İSKELELER (CİCO",
-            "type": "route",
-            "agencyId": "2",
-            "agencyName": "Kocaeli Büyükşehir Belediyesi Deniz Ulaşım Şube Müdürlüğü"
-        },
-        {
-            "routeCode": "22228",
-            "displayRouteCode": "MEHTAP",
-            "name": "MEHTAP-TURU",
             "type": "route",
             "agencyId": "2",
             "agencyName": "Kocaeli Büyükşehir Belediyesi Deniz Ulaşım Şube Müdürlüğü"
@@ -1856,7 +1824,7 @@
             "name": "İHSANİYE-GÖLCÜK DEVLET HAST.-İZMİT-BATI TERMİNALİ(YENİ YOL)",
             "type": "route",
             "agencyId": "58",
-            "agencyName": "İhsaniye-İzmit İhaleli"
+            "agencyName": "İhsaniye-��zmit İhaleli"
         },
         {
             "routeCode": "41695",
@@ -2227,14 +2195,6 @@
             "agencyName": "Minibüs Odasına Bağlı M Plakalar"
         },
         {
-            "routeCode": "42005",
-            "displayRouteCode": "TLFRK",
-            "name": "DERBENT-KUZUYAYLA",
-            "type": "route",
-            "agencyId": "70",
-            "agencyName": "Minibüs Odasına Bağlı M Plakalar"
-        },
-        {
             "routeCode": "42032",
             "displayRouteCode": "32B",
             "name": "TREN GARI-BAÇ-ŞEHİR HASTANESİ-BOĞAZOVA-BAYINDIRLIK",
@@ -2307,14 +2267,6 @@
             "agencyName": "Minibüs Odasına Bağlı M Plakalar"
         },
         {
-            "routeCode": "42490",
-            "displayRouteCode": "490E",
-            "name": "MUALLİMKÖY KYK YURDU-GEBZE TEKNİK ÜNİVERSİTESİ",
-            "type": "route",
-            "agencyId": "78",
-            "agencyName": "ULAŞIM PARK A.Ş."
-        },
-        {
             "routeCode": "42501",
             "displayRouteCode": "501B",
             "name": "BAYRAMOĞLU-GEBZE",
@@ -2385,14 +2337,6 @@
             "type": "route",
             "agencyId": "78",
             "agencyName": "ULAŞIM PARK A.Ş."
-        },
-        {
-            "routeCode": "44001",
-            "displayRouteCode": "44001",
-            "name": "GEBZE-ESENLER",
-            "type": "route",
-            "agencyId": "23",
-            "agencyName": "Kocaeli Test"
         },
         {
             "routeCode": "51001",
@@ -2931,6 +2875,6 @@
             "agencyName": "ULAŞIM PARK A.Ş."
         }
     ],
-    "request_start": 1722351629471,
-    "request_duration": 1568
+    "request_start": 1722358828649,
+    "request_duration": 1668
 }
