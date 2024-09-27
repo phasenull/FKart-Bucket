@@ -1,6 +1,6 @@
 {
-    "hash": "4ef82337b5f1b989aa5e7f2a6f6ca2",
-    "keys_hash": "766f26b257d4334978b819d71f6f",
+    "hash": "c4c7374ce947771ff3827b11bbfe24d2",
+    "keys_hash": "65d17b6bbd236a252632649de14c3b",
     "object": [
         {
             "routeCode": "22201",
@@ -205,7 +205,7 @@
         {
             "routeCode": "41016",
             "displayRouteCode": "16",
-            "name": "DOĞUKIŞLA-ERENLER-İZMİT KENT-SANTRAL-BULVAR-DOĞUKIŞLA",
+            "name": "DOGUKISLA-ERENLER-IZMIT KENT-SANTRAL-BULVAR-DOGUKISLA",
             "type": "route",
             "agencyId": "17",
             "agencyName": "SS. 5 Nolu Şehiriçi Koop."
@@ -419,6 +419,14 @@
             "agencyName": "SS. 5 Nolu Şehiriçi Koop."
         },
         {
+            "routeCode": "41073",
+            "displayRouteCode": "73",
+            "name": "ARIZLI YURT-UMUTTEPE",
+            "type": "route",
+            "agencyId": "17",
+            "agencyName": "SS. 5 Nolu Şehiriçi Koop."
+        },
+        {
             "routeCode": "41074",
             "displayRouteCode": "74",
             "name": "RADAR-HALKEVİ -M.İRADE MEYDANI-GÜNEY TERMİNALİ",
@@ -485,7 +493,7 @@
         {
             "routeCode": "41091",
             "displayRouteCode": "91",
-            "name": "KURUÇEŞME TRAMVAY-ŞAHİN TEPESİ-CUMHURİYET MAHALLESİ-PLAJYOLU",
+            "name": "ŞAHİN TEPESİ-CUMHURİYET MAH.-PLAJYOLU-D.KIŞLA",
             "type": "route",
             "agencyId": "17",
             "agencyName": "SS. 5 Nolu Şehiriçi Koop."
@@ -565,7 +573,7 @@
         {
             "routeCode": "41115",
             "displayRouteCode": "115",
-            "name": "KÖRFEZKENT-SOPALI-DERİNCE-İZMİT-ÜÇYOL-UMUTTEPE",
+            "name": "K��RFEZKENT-SOPALI-DERİNCE-İZMİT-ÜÇYOL-UMUTTEPE",
             "type": "route",
             "agencyId": "78",
             "agencyName": "ULAŞIM PARK A.Ş."
@@ -589,7 +597,7 @@
         {
             "routeCode": "41126",
             "displayRouteCode": "126",
-            "name": "KÖRFEZKENT-SOPALI-DERİNCE-HALK EVİ-DOĞU KIŞLA-Y.KAPTAN",
+            "name": "KÖRFEZKENT-SOPALI-DERİNCE-HALK EVİ-D.KIŞLA-Y.KAPTAN",
             "type": "route",
             "agencyId": "17",
             "agencyName": "SS. 5 Nolu Şehiriçi Koop."
@@ -739,6 +747,14 @@
             "agencyName": "SS. 22 Nolu Y.Hereke Koop."
         },
         {
+            "routeCode": "41182",
+            "displayRouteCode": "182",
+            "name": "AŞAĞI HEREKE-KIŞLADÜZÜ-YUKARI HEREKE",
+            "type": "route",
+            "agencyId": "70",
+            "agencyName": "Minibüs Odasına Bağlı M Plakalar"
+        },
+        {
             "routeCode": "41183",
             "displayRouteCode": "183",
             "name": "YUKARI HEREKE-KIŞLADÜZÜ-KÖRFEZ-DERİNCE-İZMİT-OTOGAR",
@@ -801,6 +817,14 @@
             "type": "route",
             "agencyId": "78",
             "agencyName": "ULAŞIM PARK A.Ş."
+        },
+        {
+            "routeCode": "41209",
+            "displayRouteCode": "209",
+            "name": "SUKENT-MAŞUKİYE-ACISU-DERBENT-ARSLANBEY M.Y.O",
+            "type": "route",
+            "agencyId": "41",
+            "agencyName": "SS. 129 Nolu Derbent Koop."
         },
         {
             "routeCode": "41210",
@@ -963,6 +987,14 @@
             "agencyName": "ULAŞIM PARK A.Ş."
         },
         {
+            "routeCode": "41279",
+            "displayRouteCode": "279",
+            "name": "BALABAN-DERBENT-MAŞUKİYE-KÖSEKÖY",
+            "type": "route",
+            "agencyId": "41",
+            "agencyName": "SS. 129 Nolu Derbent Koop."
+        },
+        {
             "routeCode": "41280",
             "displayRouteCode": "280",
             "name": "İZMİT OTOGAR-EŞME-SAKARYA ÜNİVERSİTESİ",
@@ -993,6 +1025,14 @@
             "type": "route",
             "agencyId": "38",
             "agencyName": "SS. 84 Nolu Uzuntarla Koop."
+        },
+        {
+            "routeCode": "41299",
+            "displayRouteCode": "299",
+            "name": "SUADİYE-ARSLANBEY-M.Y.O-KÖSEKÖY-EMEKEVLER",
+            "type": "route",
+            "agencyId": "24",
+            "agencyName": "SS. 80 Nolu Birleşik Kartepe Koop."
         },
         {
             "routeCode": "41300",
@@ -1333,7 +1373,7 @@
         {
             "routeCode": "41500",
             "displayRouteCode": "500",
-            "name": "HEREKE-DİLOVASI-GEBZE-DARICA",
+            "name": "HEREKE - DİLOVASI - GEBZE-İSTASYON - DARICA",
             "type": "route",
             "agencyId": "78",
             "agencyName": "ULAŞIM PARK A.Ş."
@@ -1579,6 +1619,14 @@
             "agencyName": "SS. 71 Nolu Kullar Koop."
         },
         {
+            "routeCode": "41616",
+            "displayRouteCode": "616",
+            "name": "VEZİRÇİFTLİĞİ-KULLAR MERKEZ-TÜPRAŞ LİSESİ-OKULLAR BÖLGESİ",
+            "type": "route",
+            "agencyId": "21",
+            "agencyName": "SS. 71 Nolu Kullar Koop."
+        },
+        {
             "routeCode": "41621",
             "displayRouteCode": "621",
             "name": "YUVACIK-İZMİT-BATI TERMİNALİ (YENİ YOL)",
@@ -1635,6 +1683,22 @@
             "agencyName": "SS. 14 Nolu Yuvacık"
         },
         {
+            "routeCode": "41628",
+            "displayRouteCode": "628",
+            "name": "YUVACIK-TINAZTEPE-OKULLAR BÖLGESİ",
+            "type": "route",
+            "agencyId": "59",
+            "agencyName": "SS. 14 Nolu Yuvacık"
+        },
+        {
+            "routeCode": "41629",
+            "displayRouteCode": "629",
+            "name": "YUVACIK-AYDINKENT-OKULLAR BÖLGESİ",
+            "type": "route",
+            "agencyId": "59",
+            "agencyName": "SS. 14 Nolu Yuvacık"
+        },
+        {
             "routeCode": "41630",
             "displayRouteCode": "630",
             "name": "YUVACIK MERKEZ-AYDINKENT-İZMİT-UMUTTEPE",
@@ -1686,6 +1750,14 @@
             "routeCode": "41637",
             "displayRouteCode": "637",
             "name": "YEŞİLKENT-DAMLAR-İZMİT-BATI TERMİNALİ (ESKİYOL)",
+            "type": "route",
+            "agencyId": "52",
+            "agencyName": "SS. 93 Nolu Yeşil Bahçecik Min. Ve Oto. Mot. Taş. Koop."
+        },
+        {
+            "routeCode": "41639",
+            "displayRouteCode": "639",
+            "name": "BAHÇECİK-PAŞADAĞ ANADOLU LİSESİ",
             "type": "route",
             "agencyId": "52",
             "agencyName": "SS. 93 Nolu Yeşil Bahçecik Min. Ve Oto. Mot. Taş. Koop."
@@ -1781,7 +1853,7 @@
         {
             "routeCode": "41670",
             "displayRouteCode": "670",
-            "name": "GÖLCÜK-DEVLET HAST.-HİSAREYN-YAZLIK-YENİKÖY-HAVUZLUBAHÇE",
+            "name": "D.DERE-GÖLCÜK-DEVLET HAST.-HİSAREYN-YAZLIK-YENİKÖY-HAVUZ",
             "type": "route",
             "agencyId": "78",
             "agencyName": "ULAŞIM PARK A.Ş."
@@ -1869,7 +1941,7 @@
         {
             "routeCode": "41698",
             "displayRouteCode": "698",
-            "name": "KULLAR-KAYMAKAMLIK-OKULLAR BÖLGESİ-YENİKÖY",
+            "name": "İZMİT OTOGAR-Y.KAPTAN-KULLAR-KAYMAKALIK-OKULLAR B.-YENİKÖY",
             "type": "route",
             "agencyId": "78",
             "agencyName": "ULAŞIM PARK A.Ş."
@@ -1909,7 +1981,7 @@
         {
             "routeCode": "41710",
             "displayRouteCode": "710",
-            "name": "GÖLCÜK KALICI KONUTLAR-D.HAST.-ŞİRİNKÖY-İZMİT-PLAJ YOLU",
+            "name": "DEĞİRMENDERE-KONUTLAR-D.HAST.-ŞİRİNKÖY-İZMİT-PLAJ YOLU",
             "type": "route",
             "agencyId": "78",
             "agencyName": "ULAŞIM PARK A.Ş."
@@ -2009,6 +2081,14 @@
             "type": "route",
             "agencyId": "51",
             "agencyName": "SS. 39 Nolu Değirmendere Koop."
+        },
+        {
+            "routeCode": "41733",
+            "displayRouteCode": "733",
+            "name": "DEĞİRMENDERE-GÖLCÜK",
+            "type": "route",
+            "agencyId": "70",
+            "agencyName": "Minibüs Odasına Bağlı M Plakalar"
         },
         {
             "routeCode": "41740",
@@ -2189,7 +2269,7 @@
         {
             "routeCode": "41812",
             "displayRouteCode": "812",
-            "name": "K.Y.K KANDIRA YURDU-KANDIRA TERMİNAL-EMNİYET",
+            "name": "K.Y.K KANDIRA YURDU-TERMİNAL-ÇARŞI-YEŞİL CAMİ-YÜKSEK OKUL",
             "type": "route",
             "agencyId": "62",
             "agencyName": "SS. 49 Nolu Minib. ve Küçük Otob. Mot. Taş.Koop.(Şehir İçi)"
@@ -2201,14 +2281,6 @@
             "type": "route",
             "agencyId": "62",
             "agencyName": "SS. 49 Nolu Minib. ve Küçük Otob. Mot. Taş.Koop.(Şehir İçi)"
-        },
-        {
-            "routeCode": "41991",
-            "displayRouteCode": "D1",
-            "name": "ENDÜSTRİ MESLEK LİSESİ-SANTRAL-DOGU KIŞLA-KANDIRA SAPAĞI-SANA",
-            "type": "route",
-            "agencyId": "17",
-            "agencyName": "SS. 5 Nolu Şehiriçi Koop."
         },
         {
             "routeCode": "42001",
@@ -2241,6 +2313,14 @@
             "type": "route",
             "agencyId": "17",
             "agencyName": "SS. 5 Nolu Şehiriçi Koop."
+        },
+        {
+            "routeCode": "42041",
+            "displayRouteCode": "41Ç",
+            "name": "SAHİL- BALIKHAN-LEYLA  ATAKAN-CUMHURİYET PARKI-SEKA PARK",
+            "type": "route",
+            "agencyId": "70",
+            "agencyName": "Minibüs Odasına Bağlı M Plakalar"
         },
         {
             "routeCode": "42065",
@@ -2365,15 +2445,7 @@
         {
             "routeCode": "42710",
             "displayRouteCode": "710S",
-            "name": "SARAYLI-İZMİT",
-            "type": "route",
-            "agencyId": "78",
-            "agencyName": "ULAŞIM PARK A.Ş."
-        },
-        {
-            "routeCode": "42800",
-            "displayRouteCode": "800CK",
-            "name": "İZMİT OTOGAR-KERPE-KEFKEN-CEBECİ",
+            "name": "DEĞİRMENDERE-SARAYLI-DÜZAĞAÇ-SİVRİTEPE-İZMİT",
             "type": "route",
             "agencyId": "78",
             "agencyName": "ULAŞIM PARK A.Ş."
@@ -2931,6 +3003,6 @@
             "agencyName": "ULAŞIM PARK A.Ş."
         }
     ],
-    "request_start": 1724607033791,
-    "request_duration": 1764
+    "request_start": 1727401824935,
+    "request_duration": 633
 }
