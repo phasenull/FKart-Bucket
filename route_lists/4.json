@@ -1,6 +1,6 @@
 {
-    "hash": "dfaff0d7f3b14bd1e3b13a32265ccb4e",
-    "keys_hash": "31ae1de713365bf032fbc9a61e1855e3",
+    "hash": "c93f8465eb64ae75328bf0d55479f97f",
+    "keys_hash": "d688e6e72b20e94f9c2a189a2ecf463",
     "object": [
         {
             "routeCode": "22201",
@@ -59,41 +59,9 @@
             "agencyName": "Kocaeli Büyükşehir Belediyesi Deniz Ulaşım Şube Müdürlüğü"
         },
         {
-            "routeCode": "22225",
-            "displayRouteCode": "DARICA",
-            "name": "DARICA-ADALAR",
-            "type": "route",
-            "agencyId": "2",
-            "agencyName": "Kocaeli Büyükşehir Belediyesi Deniz Ulaşım Şube Müdürlüğü"
-        },
-        {
-            "routeCode": "22226",
-            "displayRouteCode": "IZMIT",
-            "name": "IZMIT-ADALAR",
-            "type": "route",
-            "agencyId": "2",
-            "agencyName": "Kocaeli Büyükşehir Belediyesi Deniz Ulaşım Şube Müdürlüğü"
-        },
-        {
-            "routeCode": "22227",
-            "displayRouteCode": "22227",
-            "name": "TÜM İSKELELER (CİCO-TÜM İSKELELER (CİCO",
-            "type": "route",
-            "agencyId": "2",
-            "agencyName": "Kocaeli Büyükşehir Belediyesi Deniz Ulaşım Şube Müdürlüğü"
-        },
-        {
-            "routeCode": "22228",
-            "displayRouteCode": "MEHTAP",
-            "name": "MEHTAP-TURU",
-            "type": "route",
-            "agencyId": "2",
-            "agencyName": "Kocaeli Büyükşehir Belediyesi Deniz Ulaşım Şube Müdürlüğü"
-        },
-        {
             "routeCode": "22231",
             "displayRouteCode": "DU1",
-            "name": "İZMİT-GÖLCÜK-D.DERE-K.MÜRSEL-İZMİT-GÖLCÜK-D.DERE-K.MÜRSEL",
+            "name": "İZMİT-GÖLCÜK-D.DERE-K.MÜRSEL-İZMİT-G��LCÜK-D.DERE-K.MÜRSEL",
             "type": "route",
             "agencyId": "2",
             "agencyName": "Kocaeli Büyükşehir Belediyesi Deniz Ulaşım Şube Müdürlüğü"
@@ -573,7 +541,7 @@
         {
             "routeCode": "41115",
             "displayRouteCode": "115",
-            "name": "KÖRFEZKENT-SOPALI-DERİNCE-İZMİT-ÜÇYOL-UMUTTEPE",
+            "name": "K��RFEZKENT-SOPALI-DERİNCE-İZMİT-ÜÇYOL-UMUTTEPE",
             "type": "route",
             "agencyId": "78",
             "agencyName": "ULAŞIM PARK A.Ş."
@@ -745,14 +713,6 @@
             "type": "route",
             "agencyId": "35",
             "agencyName": "SS. 22 Nolu Y.Hereke Koop."
-        },
-        {
-            "routeCode": "41182",
-            "displayRouteCode": "182",
-            "name": "AŞAĞI HEREKE-KIŞLADÜZÜ-YUKARI HEREKE",
-            "type": "route",
-            "agencyId": "70",
-            "agencyName": "Minibüs Odasına Bağlı M Plakalar"
         },
         {
             "routeCode": "41183",
@@ -1453,7 +1413,7 @@
         {
             "routeCode": "41520",
             "displayRouteCode": "520",
-            "name": "SIRASÖĞÜTLER -DARICA-FARABİ E.A.H. - GEBZE",
+            "name": "SIRASÖĞÜTLER -DARICA-FARAB�� E.A.H. - GEBZE",
             "type": "route",
             "agencyId": "78",
             "agencyName": "ULAŞIM PARK A.Ş."
@@ -2299,14 +2259,6 @@
             "agencyName": "Minibüs Odasına Bağlı M Plakalar"
         },
         {
-            "routeCode": "42005",
-            "displayRouteCode": "TLFRK",
-            "name": "DERBENT-KUZUYAYLA",
-            "type": "route",
-            "agencyId": "70",
-            "agencyName": "Minibüs Odasına Bağlı M Plakalar"
-        },
-        {
             "routeCode": "42032",
             "displayRouteCode": "32B",
             "name": "TREN GARI-BAÇ-ŞEHİR HASTANESİ-BOĞAZOVA-BAYINDIRLIK",
@@ -2465,14 +2417,6 @@
             "type": "route",
             "agencyId": "78",
             "agencyName": "ULAŞIM PARK A.Ş."
-        },
-        {
-            "routeCode": "44001",
-            "displayRouteCode": "44001",
-            "name": "GEBZE-ESENLER",
-            "type": "route",
-            "agencyId": "23",
-            "agencyName": "Kocaeli Test"
         },
         {
             "routeCode": "51001",
@@ -3011,6 +2955,6 @@
             "agencyName": "ULAŞIM PARK A.Ş."
         }
     ],
-    "request_start": 1727505036139,
-    "request_duration": 801
+    "request_start": 1727508635965,
+    "request_duration": 939
 }
