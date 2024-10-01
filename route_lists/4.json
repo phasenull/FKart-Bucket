@@ -1,6 +1,6 @@
 {
-    "hash": "7a5d34351a3628a05b2a81bb9ac332d2",
-    "keys_hash": "31ae1de713365bf032fbc9a61e1855e3",
+    "hash": "8f38fc3344181bfa920e2d4332fb7a",
+    "keys_hash": "d688e6e72b20e94f9c2a189a2ecf463",
     "object": [
         {
             "routeCode": "22201",
@@ -54,38 +54,6 @@
             "routeCode": "22207",
             "displayRouteCode": "HEREKE",
             "name": "HEREKE-İSKELE HATLARI",
-            "type": "route",
-            "agencyId": "2",
-            "agencyName": "Kocaeli Büyükşehir Belediyesi Deniz Ulaşım Şube Müdürlüğü"
-        },
-        {
-            "routeCode": "22225",
-            "displayRouteCode": "DARICA",
-            "name": "DARICA-ADALAR",
-            "type": "route",
-            "agencyId": "2",
-            "agencyName": "Kocaeli Büyükşehir Belediyesi Deniz Ulaşım Şube Müdürlüğü"
-        },
-        {
-            "routeCode": "22226",
-            "displayRouteCode": "IZMIT",
-            "name": "IZMIT-ADALAR",
-            "type": "route",
-            "agencyId": "2",
-            "agencyName": "Kocaeli Büyükşehir Belediyesi Deniz Ulaşım Şube Müdürlüğü"
-        },
-        {
-            "routeCode": "22227",
-            "displayRouteCode": "22227",
-            "name": "TÜM İSKELELER (CİCO-TÜM İSKELELER (CİCO",
-            "type": "route",
-            "agencyId": "2",
-            "agencyName": "Kocaeli Büyükşehir Belediyesi Deniz Ulaşım Şube Müdürlüğü"
-        },
-        {
-            "routeCode": "22228",
-            "displayRouteCode": "MEHTAP",
-            "name": "MEHTAP-TURU",
             "type": "route",
             "agencyId": "2",
             "agencyName": "Kocaeli Büyükşehir Belediyesi Deniz Ulaşım Şube Müdürlüğü"
@@ -373,7 +341,7 @@
         {
             "routeCode": "41062",
             "displayRouteCode": "62",
-            "name": "ARIZLI-AĞAKÖY-YENİDOĞAN-B��LİM MERKEZİ-BATI TERMİNALİ",
+            "name": "ARIZLI-AĞAKÖY-YENİDOĞAN-BİLİM MERKEZİ-BATI TERMİNALİ",
             "type": "route",
             "agencyId": "78",
             "agencyName": "ULAŞIM PARK A.Ş."
@@ -745,14 +713,6 @@
             "type": "route",
             "agencyId": "35",
             "agencyName": "SS. 22 Nolu Y.Hereke Koop."
-        },
-        {
-            "routeCode": "41182",
-            "displayRouteCode": "182",
-            "name": "AŞAĞI HEREKE-KIŞLADÜZÜ-YUKARI HEREKE",
-            "type": "route",
-            "agencyId": "70",
-            "agencyName": "Minibüs Odasına Bağlı M Plakalar"
         },
         {
             "routeCode": "41183",
@@ -1861,7 +1821,7 @@
         {
             "routeCode": "41671",
             "displayRouteCode": "671",
-            "name": "YAZLIK MERKEZ-ILICA-ESKİ GARAJLAR-KER��M AĞA",
+            "name": "YAZLIK MERKEZ-ILICA-ESKİ GARAJLAR-KERİM AĞA",
             "type": "route",
             "agencyId": "40",
             "agencyName": "SS. 65 Nolu Yazlık Koop."
@@ -2299,14 +2259,6 @@
             "agencyName": "Minibüs Odasına Bağlı M Plakalar"
         },
         {
-            "routeCode": "42005",
-            "displayRouteCode": "TLFRK",
-            "name": "DERBENT-KUZUYAYLA",
-            "type": "route",
-            "agencyId": "70",
-            "agencyName": "Minibüs Odasına Bağlı M Plakalar"
-        },
-        {
             "routeCode": "42032",
             "displayRouteCode": "32B",
             "name": "TREN GARI-BAÇ-ŞEHİR HASTANESİ-BOĞAZOVA-BAYINDIRLIK",
@@ -2465,14 +2417,6 @@
             "type": "route",
             "agencyId": "78",
             "agencyName": "ULAŞIM PARK A.Ş."
-        },
-        {
-            "routeCode": "44001",
-            "displayRouteCode": "44001",
-            "name": "GEBZE-ESENLER",
-            "type": "route",
-            "agencyId": "23",
-            "agencyName": "Kocaeli Test"
         },
         {
             "routeCode": "51001",
@@ -3011,6 +2955,6 @@
             "agencyName": "ULAŞIM PARK A.Ş."
         }
     ],
-    "request_start": 1727573431605,
-    "request_duration": 405
+    "request_start": 1727746802604,
+    "request_duration": 537
 }
